@@ -2,13 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sinsoledad-tech.github.io</id>
     <title>sinsoledad-tech</title>
-    <updated>2021-02-20T16:00:34.430Z</updated>
+    <updated>2021-02-20T16:14:37.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sinsoledad-tech.github.io"/>
     <link rel="self" href="https://sinsoledad-tech.github.io/atom.xml"/>
     <logo>https://sinsoledad-tech.github.io/images/avatar.png</logo>
     <icon>https://sinsoledad-tech.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, sinsoledad-tech</rights>
+    <entry>
+        <title type="html"><![CDATA[DNS]]></title>
+        <id>https://sinsoledad-tech.github.io/post/dns/</id>
+        <link href="https://sinsoledad-tech.github.io/post/dns/">
+        </link>
+        <updated>2021-02-20T16:02:46.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1-关于dns">1 关于DNS</h1>
+<p>域名系统（英文：Domain Name System，缩写：DNS）是互联网的一项服务。它作为将域名和IP地址相互映射的一个分布式数据库，能够使人更方便地访问互联网。DNS使用TCP和UDP端口53</p>
+<h1 id="2-手动修改dns">2 手动修改DNS</h1>
+<h2 id="21-常用dns域名">2.1 常用DNS域名</h2>
+<h3 id="114dns">114DNS</h3>
+<p>国内电信联通移动通用的DNS服务，解析率较高。<br>
+纯净 无劫持 无需再忍受被强扭去看广告或粗俗网站之痛苦<br>
+服务ip为：114.114.114.114 和 114.114.115.115</p>
+<p>拦截 钓鱼病毒木马网站 增强网银、证券、购物、游戏、隐私信息安全<br>
+服务ip为：114.114.114.119 和 114.114.115.119</p>
+<p>学校或家长可选拦截 色情网站 保护少年儿童免受网络色情内容的毒害<br>
+服务ip为：114.114.114.110 和 114.114.115.110</p>
+<h3 id="阿里dns">阿里DNS</h3>
+<p>服务ip为：223.5.5.5和223.6.6.6</p>
+<h3 id="百度dns">百度DNS</h3>
+<p>服务IP为:180.76.76.76</p>
+<h3 id="360-dns">360 DNS</h3>
+<p>服务ip为：电信：首选：101.226.4.6 联通：首选：123.125.81.6 移动：首选：101.226.4.6 铁通：首选：101.226.4.6</p>
+<h3 id="google-dns">Google DNS</h3>
+<p>服务ip为：8.8.8.8和8.8.4.4</p>
+<h2 id="22-windows-dns修改">2.2 windows DNS修改</h2>
+<p>打开网络和共享中心--&gt;更改适配器设置--&gt;右键连接的网络，选择属性--&gt;选择TCP/IPv4--&gt;选择属性--&gt;手动设置DNS地址（首选和备用）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://sinsoledad-tech.github.io/post/hello-gridea/</id>
